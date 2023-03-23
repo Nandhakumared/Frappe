@@ -1,0 +1,18 @@
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _4afb16f3740b54a6 -p********** _4afb16f3740b54a6 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./nandha.com/private/backups/20230322_180007-nandha_com-database.sql.gz
+
+Backup Summary for nandha.com at 2023-03-22 18:00:15.933685
+Config  : ./nandha.com/private/backups/20230322_180007-nandha_com-site_config_backup.json 94.0B
+Database: ./nandha.com/private/backups/20230322_180007-nandha_com-database.sql.gz         1014.5KiB
+Backup for Site nandha.com has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _4afb16f3740b54a6 -p********** _4afb16f3740b54a6 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./nandha.com/private/backups/20230323_000008-nandha_com-database.sql.gz
+
+Backup Summary for nandha.com at 2023-03-23 00:00:17.454432
+Config  : ./nandha.com/private/backups/20230323_000008-nandha_com-site_config_backup.json 94.0B
+Database: ./nandha.com/private/backups/20230323_000008-nandha_com-database.sql.gz         1014.5KiB
+Backup for Site nandha.com has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _4afb16f3740b54a6 -p********** _4afb16f3740b54a6 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./nandha.com/private/backups/20230323_060008-nandha_com-database.sql.gz
+
+Backup Summary for nandha.com at 2023-03-23 06:00:17.027533
+Config  : ./nandha.com/private/backups/20230323_060008-nandha_com-site_config_backup.json 94.0B
+Database: ./nandha.com/private/backups/20230323_060008-nandha_com-database.sql.gz         1014.5KiB
+Backup for Site nandha.com has been successfully completed

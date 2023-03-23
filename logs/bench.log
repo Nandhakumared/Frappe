@@ -1,0 +1,100 @@
+2023-03-22 16:27:04,651 DEBUG cd frappe-framework && python3 -m venv env
+2023-03-22 16:27:18,052 DEBUG cd frappe-framework && /home/nandhakumar/frappe-framework/env/bin/python -m pip install --quiet --upgrade pip
+2023-03-22 16:27:28,891 DEBUG cd frappe-framework && /home/nandhakumar/frappe-framework/env/bin/python -m pip install --quiet wheel
+2023-03-22 16:27:34,147 LOG Getting frappe
+2023-03-22 16:27:34,148 DEBUG cd frappe-framework/apps && git clone https://github.com/frappe/frappe.git --branch version-14 --depth 1 --origin upstream
+2023-03-22 16:27:56,268 LOG Installing frappe
+2023-03-22 16:27:56,270 DEBUG cd /home/nandhakumar/frappe-framework && /home/nandhakumar/frappe-framework/env/bin/python -m pip install --quiet --upgrade -e /home/nandhakumar/frappe-framework/apps/frappe 
+2023-03-22 16:30:38,262 DEBUG cd /home/nandhakumar/frappe-framework/apps/frappe && yarn install
+2023-03-22 16:31:44,620 DEBUG cd /home/nandhakumar/frappe-framework && sudo supervisorctl restart frappe-framework-workers: frappe-framework-web:
+2023-03-22 16:31:51,281 INFO /usr/local/bin/bench schedule
+2023-03-22 16:31:51,289 INFO /usr/local/bin/bench worker --queue long
+2023-03-22 16:31:51,289 INFO /usr/local/bin/bench worker --queue short
+2023-03-22 16:31:51,348 INFO /usr/local/bin/bench worker --queue default
+2023-03-22 16:31:52,867 DEBUG cd frappe-framework && bench build
+2023-03-22 16:31:53,488 INFO /usr/local/bin/bench build
+2023-03-22 16:33:22,877 LOG setting up backups
+2023-03-22 16:33:22,959 LOG backups were set up
+2023-03-22 16:33:22,959 INFO Bench frappe-framework initialized
+2023-03-22 16:33:57,269 INFO /usr/local/bin/bench new-site nandha.com
+2023-03-22 16:36:00,610 INFO /usr/local/bin/bench drop-site nandha.com
+2023-03-22 16:36:11,233 INFO /usr/local/bin/bench drop-site nandha.com --force
+2023-03-22 16:39:28,474 INFO /usr/local/bin/bench new-site nandha.com
+2023-03-22 16:42:44,510 INFO /usr/local/bin/bench get-app https://github.com/frappe/erpnext --branch version-14
+2023-03-22 16:42:44,550 LOG Getting erpnext
+2023-03-22 16:42:44,550 DEBUG cd ./apps && git clone https://github.com/frappe/erpnext --branch version-14 --depth 1 --origin upstream
+2023-03-22 16:43:05,493 LOG Installing erpnext
+2023-03-22 16:43:06,468 DEBUG cd /home/nandhakumar/frappe-framework && /home/nandhakumar/frappe-framework/env/bin/python -m pip install --quiet --upgrade -e /home/nandhakumar/frappe-framework/apps/erpnext 
+2023-03-22 16:43:33,281 DEBUG cd /home/nandhakumar/frappe-framework/apps/erpnext && yarn install
+2023-03-22 16:43:35,912 DEBUG bench build --app erpnext
+2023-03-22 16:43:36,458 INFO /usr/local/bin/bench build --app erpnext
+2023-03-22 16:43:54,329 DEBUG cd /home/nandhakumar/frappe-framework && sudo supervisorctl restart frappe-framework-workers: frappe-framework-web:
+2023-03-22 16:43:59,131 INFO /usr/local/bin/bench schedule
+2023-03-22 16:43:59,181 INFO /usr/local/bin/bench worker --queue long
+2023-03-22 16:43:59,191 INFO /usr/local/bin/bench worker --queue default
+2023-03-22 16:43:59,232 INFO /usr/local/bin/bench worker --queue short
+2023-03-22 16:44:18,407 INFO /usr/local/bin/bench use nandha.com
+2023-03-22 16:44:35,798 INFO /usr/local/bin/bench install-app erpnext
+2023-03-22 16:50:18,020 INFO /usr/local/bin/bench start
+2023-03-22 16:50:38,481 INFO /usr/local/bin/bench get-app https://github.com/frappe/erpnext --branch version-14
+2023-03-22 16:50:47,567 INFO App moved from apps/erpnext to archived/apps/erpnext-2023-03-22
+2023-03-22 16:50:47,588 LOG Getting erpnext
+2023-03-22 16:50:47,589 DEBUG cd ./apps && git clone https://github.com/frappe/erpnext --branch version-14 --depth 1 --origin upstream
+2023-03-22 16:51:09,547 LOG Installing erpnext
+2023-03-22 16:51:10,442 DEBUG cd /home/nandhakumar/frappe-framework && /home/nandhakumar/frappe-framework/env/bin/python -m pip install --quiet --upgrade -e /home/nandhakumar/frappe-framework/apps/erpnext 
+2023-03-22 16:51:21,043 DEBUG cd /home/nandhakumar/frappe-framework/apps/erpnext && yarn install
+2023-03-22 16:51:22,952 DEBUG bench build --app erpnext
+2023-03-22 16:51:23,491 INFO /usr/local/bin/bench build --app erpnext
+2023-03-22 16:51:39,781 DEBUG cd /home/nandhakumar/frappe-framework && sudo supervisorctl restart frappe-framework-workers: frappe-framework-web:
+2023-03-22 16:51:44,952 INFO /usr/local/bin/bench schedule
+2023-03-22 16:51:44,977 INFO /usr/local/bin/bench worker --queue default
+2023-03-22 16:51:45,009 INFO /usr/local/bin/bench worker --queue short
+2023-03-22 16:51:45,038 INFO /usr/local/bin/bench worker --queue long
+2023-03-22 16:52:08,795 INFO /usr/local/bin/bench start
+2023-03-22 16:52:34,227 INFO /usr/local/bin/bench start
+2023-03-22 16:53:11,363 INFO /usr/local/bin/bench start
+2023-03-22 16:53:58,552 INFO /usr/local/bin/bench start
+2023-03-22 16:54:24,754 INFO /usr/local/bin/bench start
+2023-03-22 16:55:22,785 INFO /usr/local/bin/bench setup procfile
+2023-03-22 16:55:29,063 INFO /usr/local/bin/bench start
+2023-03-22 16:55:32,444 INFO /usr/local/bin/bench start
+2023-03-22 16:57:13,028 INFO /usr/local/bin/bench update
+2023-03-22 16:57:14,461 WARNING shallow_clone is set in your bench config.
+However without passing the --reset flag, your repositories will be unshallowed.
+To avoid this, cancel this operation and run `bench update --reset`.
+
+Consider the consequences of `git reset --hard` on your apps before you run that.
+To avoid seeing this warning, set shallow_clone to false in your common_site_config.json
+		
+2023-03-22 16:57:40,146 DEBUG cd /home/nandhakumar/frappe-framework/apps/frappe && git fetch upstream --unshallow
+2023-03-22 17:03:02,122 LOG pulling frappe
+2023-03-22 17:03:02,124 DEBUG cd /home/nandhakumar/frappe-framework/apps/frappe && git pull  upstream version-14
+2023-03-22 17:03:04,226 DEBUG cd /home/nandhakumar/frappe-framework/apps/frappe && find . -name "*.pyc" -delete
+2023-03-22 17:03:04,998 DEBUG cd /home/nandhakumar/frappe-framework/apps/erpnext && git fetch upstream --unshallow
+2023-03-22 17:20:10,751 LOG pulling erpnext
+2023-03-22 17:20:10,755 DEBUG cd /home/nandhakumar/frappe-framework/apps/erpnext && git pull  upstream version-14
+2023-03-22 17:20:12,125 DEBUG cd /home/nandhakumar/frappe-framework/apps/erpnext && find . -name "*.pyc" -delete
+2023-03-22 17:20:12,360 DEBUG cd /home/nandhakumar/frappe-framework && /home/nandhakumar/frappe-framework/env/bin/python -m pip install --quiet --upgrade pip
+2023-03-22 17:20:17,588 LOG Installing frappe
+2023-03-22 17:20:17,590 DEBUG cd /home/nandhakumar/frappe-framework && /home/nandhakumar/frappe-framework/env/bin/python -m pip install --quiet --upgrade -e /home/nandhakumar/frappe-framework/apps/frappe 
+2023-03-22 17:20:31,474 DEBUG cd /home/nandhakumar/frappe-framework/apps/frappe && yarn install
+2023-03-22 17:20:39,291 LOG Installing erpnext
+2023-03-22 17:20:39,293 DEBUG cd /home/nandhakumar/frappe-framework && /home/nandhakumar/frappe-framework/env/bin/python -m pip install --quiet --upgrade -e /home/nandhakumar/frappe-framework/apps/erpnext 
+2023-03-22 17:20:50,649 DEBUG cd /home/nandhakumar/frappe-framework/apps/erpnext && yarn install
+2023-03-22 17:20:55,023 WARNING /usr/local/bin/bench update executed with exit code 1
+2023-03-22 17:21:05,412 INFO /usr/local/bin/bench start
+2023-03-22 17:21:28,058 INFO /usr/local/bin/bench --site nandha.com install-app erpnext
+2023-03-22 17:21:39,902 INFO /usr/local/bin/bench --site nandha.com uninstall-app erpnext
+2023-03-22 17:24:17,584 INFO /usr/local/bin/bench setup nginx
+2023-03-22 17:24:22,444 INFO /usr/local/bin/bench start
+2023-03-22 18:00:02,070 INFO /usr/local/bin/bench --verbose --site all backup
+2023-03-23 00:00:01,918 INFO /usr/local/bin/bench --verbose --site all backup
+2023-03-23 06:00:02,107 INFO /usr/local/bin/bench --verbose --site all backup
+2023-03-23 08:54:57,334 INFO /usr/local/bin/bench start
+2023-03-23 08:55:19,530 INFO /usr/local/bin/bench start
+2023-03-23 08:57:20,743 INFO /usr/local/bin/bench --site nandha.com install-app erpnext
+2023-03-23 08:57:35,443 INFO /usr/local/bin/bench --site nandha.com uninstall-app erpnext
+2023-03-23 09:01:17,334 INFO /usr/local/bin/bench restart
+2023-03-23 09:01:19,098 DEBUG cd /home/nandhakumar/frappe-framework && sudo supervisorctl restart frappe:
+2023-03-23 09:01:20,017 WARNING cd /home/nandhakumar/frappe-framework && sudo supervisorctl restart frappe: executed with exit code 2
+2023-03-23 09:01:20,018 WARNING /usr/local/bin/bench restart executed with exit code 1

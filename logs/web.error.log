@@ -1,0 +1,93 @@
+[2023-03-22 16:31:55 +0530] [10252] [INFO] Starting gunicorn 20.1.0
+[2023-03-22 16:31:55 +0530] [10252] [INFO] Listening at: http://127.0.0.1:8000 (10252)
+[2023-03-22 16:31:55 +0530] [10252] [INFO] Using worker: sync
+[2023-03-22 16:31:55 +0530] [10298] [INFO] Booting worker with pid: 10298
+[2023-03-22 16:31:55 +0530] [10299] [INFO] Booting worker with pid: 10299
+[2023-03-22 16:31:55 +0530] [10300] [INFO] Booting worker with pid: 10300
+[2023-03-22 16:31:55 +0530] [10301] [INFO] Booting worker with pid: 10301
+[2023-03-22 16:31:55 +0530] [10302] [INFO] Booting worker with pid: 10302
+[2023-03-22 16:31:55 +0530] [10303] [INFO] Booting worker with pid: 10303
+[2023-03-22 16:31:55 +0530] [10310] [INFO] Booting worker with pid: 10310
+[2023-03-22 16:31:55 +0530] [10311] [INFO] Booting worker with pid: 10311
+[2023-03-22 16:31:55 +0530] [10314] [INFO] Booting worker with pid: 10314
+[2023-03-22 16:31:55 +0530] [10315] [INFO] Booting worker with pid: 10315
+[2023-03-22 16:31:55 +0530] [10316] [INFO] Booting worker with pid: 10316
+[2023-03-22 16:31:55 +0530] [10317] [INFO] Booting worker with pid: 10317
+[2023-03-22 16:31:56 +0530] [10318] [INFO] Booting worker with pid: 10318
+[2023-03-22 16:43:55 +0530] [10252] [INFO] Handling signal: term
+[2023-03-22 16:43:55 +0530] [10298] [INFO] Worker exiting (pid: 10298)
+[2023-03-22 16:43:55 +0530] [10300] [INFO] Worker exiting (pid: 10300)
+[2023-03-22 16:43:55 +0530] [10299] [INFO] Worker exiting (pid: 10299)
+[2023-03-22 16:43:55 +0530] [10310] [INFO] Worker exiting (pid: 10310)
+[2023-03-22 16:43:55 +0530] [10303] [INFO] Worker exiting (pid: 10303)
+[2023-03-22 16:43:55 +0530] [10302] [INFO] Worker exiting (pid: 10302)
+[2023-03-22 16:43:55 +0530] [10301] [INFO] Worker exiting (pid: 10301)
+[2023-03-22 16:43:55 +0530] [10311] [INFO] Worker exiting (pid: 10311)
+[2023-03-22 16:43:55 +0530] [10314] [INFO] Worker exiting (pid: 10314)
+[2023-03-22 16:43:55 +0530] [10315] [INFO] Worker exiting (pid: 10315)
+[2023-03-22 16:43:55 +0530] [10316] [INFO] Worker exiting (pid: 10316)
+[2023-03-22 16:43:55 +0530] [10317] [INFO] Worker exiting (pid: 10317)
+[2023-03-22 16:43:55 +0530] [10318] [INFO] Worker exiting (pid: 10318)
+[2023-03-22 16:43:58 +0530] [10252] [INFO] Shutting down: Master
+[2023-03-22 16:44:03 +0530] [14811] [INFO] Starting gunicorn 20.1.0
+[2023-03-22 16:44:03 +0530] [14811] [INFO] Listening at: http://127.0.0.1:8000 (14811)
+[2023-03-22 16:44:03 +0530] [14811] [INFO] Using worker: sync
+[2023-03-22 16:44:03 +0530] [14921] [INFO] Booting worker with pid: 14921
+[2023-03-22 16:44:03 +0530] [14922] [INFO] Booting worker with pid: 14922
+[2023-03-22 16:44:03 +0530] [14923] [INFO] Booting worker with pid: 14923
+[2023-03-22 16:44:03 +0530] [14925] [INFO] Booting worker with pid: 14925
+[2023-03-22 16:44:03 +0530] [14924] [INFO] Booting worker with pid: 14924
+[2023-03-22 16:44:03 +0530] [14933] [INFO] Booting worker with pid: 14933
+[2023-03-22 16:44:03 +0530] [14934] [INFO] Booting worker with pid: 14934
+[2023-03-22 16:44:03 +0530] [14935] [INFO] Booting worker with pid: 14935
+[2023-03-22 16:44:03 +0530] [14937] [INFO] Booting worker with pid: 14937
+[2023-03-22 16:44:03 +0530] [14938] [INFO] Booting worker with pid: 14938
+[2023-03-22 16:44:04 +0530] [14939] [INFO] Booting worker with pid: 14939
+[2023-03-22 16:44:04 +0530] [14940] [INFO] Booting worker with pid: 14940
+[2023-03-22 16:44:04 +0530] [14941] [INFO] Booting worker with pid: 14941
+[2023-03-22 16:51:42 +0530] [14811] [INFO] Handling signal: term
+[2023-03-22 16:51:42 +0530] [14924] [INFO] Worker exiting (pid: 14924)
+[2023-03-22 16:51:42 +0530] [14933] [INFO] Worker exiting (pid: 14933)
+[2023-03-22 16:51:42 +0530] [14938] [INFO] Worker exiting (pid: 14938)
+[2023-03-22 16:51:42 +0530] [14934] [INFO] Worker exiting (pid: 14934)
+[2023-03-22 16:51:42 +0530] [14921] [INFO] Worker exiting (pid: 14921)
+[2023-03-22 16:51:42 +0530] [14922] [INFO] Worker exiting (pid: 14922)
+[2023-03-22 16:51:42 +0530] [14939] [INFO] Worker exiting (pid: 14939)
+[2023-03-22 16:51:42 +0530] [14941] [INFO] Worker exiting (pid: 14941)
+[2023-03-22 16:51:42 +0530] [14940] [INFO] Worker exiting (pid: 14940)
+[2023-03-22 16:51:42 +0530] [14925] [INFO] Worker exiting (pid: 14925)
+[2023-03-22 16:51:42 +0530] [14923] [INFO] Worker exiting (pid: 14923)
+[2023-03-22 16:51:42 +0530] [14937] [INFO] Worker exiting (pid: 14937)
+[2023-03-22 16:51:42 +0530] [14935] [INFO] Worker exiting (pid: 14935)
+[2023-03-22 16:51:44 +0530] [14811] [INFO] Shutting down: Master
+[2023-03-22 16:51:48 +0530] [17866] [INFO] Starting gunicorn 20.1.0
+[2023-03-22 16:51:48 +0530] [17866] [INFO] Listening at: http://127.0.0.1:8000 (17866)
+[2023-03-22 16:51:48 +0530] [17866] [INFO] Using worker: sync
+[2023-03-22 16:51:48 +0530] [17906] [INFO] Booting worker with pid: 17906
+[2023-03-22 16:51:48 +0530] [17908] [INFO] Booting worker with pid: 17908
+[2023-03-22 16:51:48 +0530] [17909] [INFO] Booting worker with pid: 17909
+[2023-03-22 16:51:48 +0530] [17910] [INFO] Booting worker with pid: 17910
+[2023-03-22 16:51:48 +0530] [17911] [INFO] Booting worker with pid: 17911
+[2023-03-22 16:51:48 +0530] [17912] [INFO] Booting worker with pid: 17912
+[2023-03-22 16:51:48 +0530] [17913] [INFO] Booting worker with pid: 17913
+[2023-03-22 16:51:48 +0530] [17914] [INFO] Booting worker with pid: 17914
+[2023-03-22 16:51:48 +0530] [17915] [INFO] Booting worker with pid: 17915
+[2023-03-22 16:51:48 +0530] [17916] [INFO] Booting worker with pid: 17916
+[2023-03-22 16:51:48 +0530] [17917] [INFO] Booting worker with pid: 17917
+[2023-03-22 16:51:48 +0530] [17918] [INFO] Booting worker with pid: 17918
+[2023-03-22 16:51:48 +0530] [17919] [INFO] Booting worker with pid: 17919
+[2023-03-22 16:51:51 +0530] [17866] [INFO] Handling signal: term
+[2023-03-22 16:51:51 +0530] [17906] [INFO] Worker exiting (pid: 17906)
+[2023-03-22 16:51:51 +0530] [17908] [INFO] Worker exiting (pid: 17908)
+[2023-03-22 16:51:51 +0530] [17910] [INFO] Worker exiting (pid: 17910)
+[2023-03-22 16:51:51 +0530] [17914] [INFO] Worker exiting (pid: 17914)
+[2023-03-22 16:51:51 +0530] [17912] [INFO] Worker exiting (pid: 17912)
+[2023-03-22 16:51:51 +0530] [17913] [INFO] Worker exiting (pid: 17913)
+[2023-03-22 16:51:51 +0530] [17909] [INFO] Worker exiting (pid: 17909)
+[2023-03-22 16:51:51 +0530] [17919] [INFO] Worker exiting (pid: 17919)
+[2023-03-22 16:51:51 +0530] [17918] [INFO] Worker exiting (pid: 17918)
+[2023-03-22 16:51:51 +0530] [17916] [INFO] Worker exiting (pid: 17916)
+[2023-03-22 16:51:51 +0530] [17911] [INFO] Worker exiting (pid: 17911)
+[2023-03-22 16:51:51 +0530] [17915] [INFO] Worker exiting (pid: 17915)
+[2023-03-22 16:51:51 +0530] [17917] [INFO] Worker exiting (pid: 17917)
+[2023-03-22 16:51:52 +0530] [17866] [INFO] Shutting down: Master

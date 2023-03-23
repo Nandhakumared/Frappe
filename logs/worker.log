@@ -1,0 +1,51 @@
+2023-03-22 16:31:55,180 Worker rq:worker:78ec4ccfbc544b21bbea88b898a11d25.nandhakumar-Standard-PC-i440FX-PIIX-1996.10237.home-nandhakumar-frappe-framework:long: started, version 1.11.1
+2023-03-22 16:31:55,180 Subscribing to channel rq:pubsub:78ec4ccfbc544b21bbea88b898a11d25.nandhakumar-Standard-PC-i440FX-PIIX-1996.10237.home-nandhakumar-frappe-framework:long
+2023-03-22 16:31:55,182 *** Listening on home-nandhakumar-frappe-framework:long...
+2023-03-22 16:31:55,189 Cleaning registries for queue: home-nandhakumar-frappe-framework:long
+2023-03-22 16:31:55,741 Worker rq:worker:776e98769aeb4c0f9ae9c3fd5be6d77a.nandhakumar-Standard-PC-i440FX-PIIX-1996.10235.home-nandhakumar-frappe-framework:default: started, version 1.11.1
+2023-03-22 16:31:55,742 Subscribing to channel rq:pubsub:776e98769aeb4c0f9ae9c3fd5be6d77a.nandhakumar-Standard-PC-i440FX-PIIX-1996.10235.home-nandhakumar-frappe-framework:default
+2023-03-22 16:31:55,745 *** Listening on home-nandhakumar-frappe-framework:default...
+2023-03-22 16:31:55,747 Cleaning registries for queue: home-nandhakumar-frappe-framework:default
+2023-03-22 16:31:55,753 Worker rq:worker:37f167dac4ce43d4858fc9527019ad7c.nandhakumar-Standard-PC-i440FX-PIIX-1996.10236.home-nandhakumar-frappe-framework:short: started, version 1.11.1
+2023-03-22 16:31:55,753 Subscribing to channel rq:pubsub:37f167dac4ce43d4858fc9527019ad7c.nandhakumar-Standard-PC-i440FX-PIIX-1996.10236.home-nandhakumar-frappe-framework:short
+2023-03-22 16:31:55,756 *** Listening on home-nandhakumar-frappe-framework:short...
+2023-03-22 16:31:55,758 Cleaning registries for queue: home-nandhakumar-frappe-framework:short
+2023-03-22 16:43:54,912 Warm shut down requested
+2023-03-22 16:43:54,912 Warm shut down requested
+2023-03-22 16:43:54,914 Warm shut down requested
+2023-03-22 16:43:54,921 Unsubscribing from channel rq:pubsub:37f167dac4ce43d4858fc9527019ad7c.nandhakumar-Standard-PC-i440FX-PIIX-1996.10236.home-nandhakumar-frappe-framework:short
+2023-03-22 16:43:54,921 Unsubscribing from channel rq:pubsub:78ec4ccfbc544b21bbea88b898a11d25.nandhakumar-Standard-PC-i440FX-PIIX-1996.10237.home-nandhakumar-frappe-framework:long
+2023-03-22 16:43:54,922 Unsubscribing from channel rq:pubsub:776e98769aeb4c0f9ae9c3fd5be6d77a.nandhakumar-Standard-PC-i440FX-PIIX-1996.10235.home-nandhakumar-frappe-framework:default
+2023-03-22 16:44:03,754 Worker rq:worker:79c361f7b0f84913bbd35d83cbc46c1c.nandhakumar-Standard-PC-i440FX-PIIX-1996.14796.home-nandhakumar-frappe-framework:long: started, version 1.11.1
+2023-03-22 16:44:03,754 Subscribing to channel rq:pubsub:79c361f7b0f84913bbd35d83cbc46c1c.nandhakumar-Standard-PC-i440FX-PIIX-1996.14796.home-nandhakumar-frappe-framework:long
+2023-03-22 16:44:03,757 *** Listening on home-nandhakumar-frappe-framework:long...
+2023-03-22 16:44:03,871 Worker rq:worker:de62bf90b4e0446a800ade917f72653c.nandhakumar-Standard-PC-i440FX-PIIX-1996.14794.home-nandhakumar-frappe-framework:default: started, version 1.11.1
+2023-03-22 16:44:03,871 Subscribing to channel rq:pubsub:de62bf90b4e0446a800ade917f72653c.nandhakumar-Standard-PC-i440FX-PIIX-1996.14794.home-nandhakumar-frappe-framework:default
+2023-03-22 16:44:03,873 *** Listening on home-nandhakumar-frappe-framework:default...
+2023-03-22 16:44:04,316 Worker rq:worker:17825d8ece4244cf84029140289baa1f.nandhakumar-Standard-PC-i440FX-PIIX-1996.14795.home-nandhakumar-frappe-framework:short: started, version 1.11.1
+2023-03-22 16:44:04,317 Subscribing to channel rq:pubsub:17825d8ece4244cf84029140289baa1f.nandhakumar-Standard-PC-i440FX-PIIX-1996.14795.home-nandhakumar-frappe-framework:short
+2023-03-22 16:44:04,321 *** Listening on home-nandhakumar-frappe-framework:short...
+2023-03-22 16:51:40,654 Warm shut down requested
+2023-03-22 16:51:40,654 Warm shut down requested
+2023-03-22 16:51:40,654 Warm shut down requested
+2023-03-22 16:51:40,663 Unsubscribing from channel rq:pubsub:de62bf90b4e0446a800ade917f72653c.nandhakumar-Standard-PC-i440FX-PIIX-1996.14794.home-nandhakumar-frappe-framework:default
+2023-03-22 16:51:40,663 Unsubscribing from channel rq:pubsub:17825d8ece4244cf84029140289baa1f.nandhakumar-Standard-PC-i440FX-PIIX-1996.14795.home-nandhakumar-frappe-framework:short
+2023-03-22 16:51:40,663 Unsubscribing from channel rq:pubsub:79c361f7b0f84913bbd35d83cbc46c1c.nandhakumar-Standard-PC-i440FX-PIIX-1996.14796.home-nandhakumar-frappe-framework:long
+2023-03-22 16:51:47,614 Worker rq:worker:a5c6895ebcca4f4ca486ba004d81a42a.nandhakumar-Standard-PC-i440FX-PIIX-1996.17851.home-nandhakumar-frappe-framework:long: started, version 1.11.1
+2023-03-22 16:51:47,615 Subscribing to channel rq:pubsub:a5c6895ebcca4f4ca486ba004d81a42a.nandhakumar-Standard-PC-i440FX-PIIX-1996.17851.home-nandhakumar-frappe-framework:long
+2023-03-22 16:51:47,618 *** Listening on home-nandhakumar-frappe-framework:long...
+2023-03-22 16:51:47,620 Cleaning registries for queue: home-nandhakumar-frappe-framework:long
+2023-03-22 16:51:48,014 Worker rq:worker:d05e4dc8350f4ae59e456f3901b48760.nandhakumar-Standard-PC-i440FX-PIIX-1996.17850.home-nandhakumar-frappe-framework:short: started, version 1.11.1
+2023-03-22 16:51:48,014 Subscribing to channel rq:pubsub:d05e4dc8350f4ae59e456f3901b48760.nandhakumar-Standard-PC-i440FX-PIIX-1996.17850.home-nandhakumar-frappe-framework:short
+2023-03-22 16:51:48,017 *** Listening on home-nandhakumar-frappe-framework:short...
+2023-03-22 16:51:48,018 Cleaning registries for queue: home-nandhakumar-frappe-framework:short
+2023-03-22 16:51:48,190 Worker rq:worker:2fc86f936e6b48a185e43971e1767977.nandhakumar-Standard-PC-i440FX-PIIX-1996.17849.home-nandhakumar-frappe-framework:default: started, version 1.11.1
+2023-03-22 16:51:48,191 Subscribing to channel rq:pubsub:2fc86f936e6b48a185e43971e1767977.nandhakumar-Standard-PC-i440FX-PIIX-1996.17849.home-nandhakumar-frappe-framework:default
+2023-03-22 16:51:48,193 *** Listening on home-nandhakumar-frappe-framework:default...
+2023-03-22 16:51:48,194 Cleaning registries for queue: home-nandhakumar-frappe-framework:default
+2023-03-22 16:51:50,804 Warm shut down requested
+2023-03-22 16:51:50,804 Warm shut down requested
+2023-03-22 16:51:50,804 Warm shut down requested
+2023-03-22 16:51:50,808 Unsubscribing from channel rq:pubsub:2fc86f936e6b48a185e43971e1767977.nandhakumar-Standard-PC-i440FX-PIIX-1996.17849.home-nandhakumar-frappe-framework:default
+2023-03-22 16:51:50,808 Unsubscribing from channel rq:pubsub:d05e4dc8350f4ae59e456f3901b48760.nandhakumar-Standard-PC-i440FX-PIIX-1996.17850.home-nandhakumar-frappe-framework:short
+2023-03-22 16:51:50,808 Unsubscribing from channel rq:pubsub:a5c6895ebcca4f4ca486ba004d81a42a.nandhakumar-Standard-PC-i440FX-PIIX-1996.17851.home-nandhakumar-frappe-framework:long
