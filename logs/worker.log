@@ -1129,3 +1129,7 @@
 2023-03-23 09:23:06,805 home-nandhakumar-frappe-framework:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.user.user.update_gravatar', kwargs={'name': 'nandha@gmai.com'}, method='frappe.core.doctype.user.user.update_gravatar', site='nandha.com', user='Administrator') (5d9e9cc8-d9a9-4949-8df9-fc368a488e8a)
 2023-03-23 09:23:08,211 home-nandhakumar-frappe-framework:default: Job OK (5d9e9cc8-d9a9-4949-8df9-fc368a488e8a)
 2023-03-23 09:23:08,212 Result is kept for 600 seconds
+2023-03-23 09:28:17,413 home-nandhakumar-frappe-framework:long: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='<function build_index_for_all_routes at 0x7f1442f0ab00>', kwargs={}, method=<function build_index_for_all_routes at 0x7f1442f0ab00>, site='nandha.com', user='Administrator') (022d8bfe-e2db-451c-a559-7ecbde2a3b73)
+Retrieving Routes                   : [=                                       ] 2%
+2023-03-23 09:28:51,216 home-nandhakumar-frappe-framework:long: Job OK (022d8bfe-e2db-451c-a559-7ecbde2a3b73)
+2023-03-23 09:28:51,216 Result is kept for 600 seconds

@@ -257,3 +257,22 @@ To avoid seeing this warning, set shallow_clone to false in your common_site_con
 2023-03-23 09:18:30,154 INFO /usr/local/bin/bench schedule
 2023-03-23 09:18:30,178 INFO /usr/local/bin/bench worker --queue default
 2023-03-23 09:18:30,211 INFO /usr/local/bin/bench worker --queue long
+2023-03-23 09:26:18,239 INFO /usr/local/bin/bench update
+2023-03-23 09:26:19,995 WARNING shallow_clone is set in your bench config.
+However without passing the --reset flag, your repositories will be unshallowed.
+To avoid this, cancel this operation and run `bench update --reset`.
+
+Consider the consequences of `git reset --hard` on your apps before you run that.
+To avoid seeing this warning, set shallow_clone to false in your common_site_config.json
+		
+2023-03-23 09:26:44,897 WARNING /usr/local/bin/bench update executed with exit code 1
+2023-03-23 09:27:35,778 INFO /usr/local/bin/bench update
+2023-03-23 09:27:37,315 WARNING shallow_clone is set in your bench config.
+However without passing the --reset flag, your repositories will be unshallowed.
+To avoid this, cancel this operation and run `bench update --reset`.
+
+Consider the consequences of `git reset --hard` on your apps before you run that.
+To avoid seeing this warning, set shallow_clone to false in your common_site_config.json
+		
+2023-03-23 09:27:39,250 WARNING /usr/local/bin/bench update executed with exit code 1
+2023-03-23 09:27:49,599 INFO /usr/local/bin/bench migrate
