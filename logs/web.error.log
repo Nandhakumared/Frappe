@@ -91,3 +91,250 @@
 [2023-03-22 16:51:51 +0530] [17915] [INFO] Worker exiting (pid: 17915)
 [2023-03-22 16:51:51 +0530] [17917] [INFO] Worker exiting (pid: 17917)
 [2023-03-22 16:51:52 +0530] [17866] [INFO] Shutting down: Master
+[2023-03-23 09:08:45 +0530] [375734] [INFO] Starting gunicorn 20.1.0
+[2023-03-23 09:08:45 +0530] [375734] [INFO] Listening at: http://127.0.0.1:8000 (375734)
+[2023-03-23 09:08:45 +0530] [375734] [INFO] Using worker: sync
+[2023-03-23 09:08:45 +0530] [375808] [INFO] Booting worker with pid: 375808
+[2023-03-23 09:08:45 +0530] [375809] [INFO] Booting worker with pid: 375809
+[2023-03-23 09:08:45 +0530] [375810] [INFO] Booting worker with pid: 375810
+[2023-03-23 09:08:45 +0530] [375811] [INFO] Booting worker with pid: 375811
+[2023-03-23 09:08:46 +0530] [375812] [INFO] Booting worker with pid: 375812
+[2023-03-23 09:08:46 +0530] [375813] [INFO] Booting worker with pid: 375813
+[2023-03-23 09:08:46 +0530] [375814] [INFO] Booting worker with pid: 375814
+[2023-03-23 09:08:46 +0530] [375815] [INFO] Booting worker with pid: 375815
+[2023-03-23 09:08:46 +0530] [375816] [INFO] Booting worker with pid: 375816
+[2023-03-23 09:08:46 +0530] [375817] [INFO] Booting worker with pid: 375817
+[2023-03-23 09:08:46 +0530] [375818] [INFO] Booting worker with pid: 375818
+[2023-03-23 09:08:46 +0530] [375819] [INFO] Booting worker with pid: 375819
+[2023-03-23 09:08:46 +0530] [375820] [INFO] Booting worker with pid: 375820
+[2023-03-23 09:08:57 +0530] [375734] [INFO] Handling signal: term
+[2023-03-23 09:08:57 +0530] [375808] [INFO] Worker exiting (pid: 375808)
+[2023-03-23 09:08:57 +0530] [375810] [INFO] Worker exiting (pid: 375810)
+[2023-03-23 09:08:57 +0530] [375811] [INFO] Worker exiting (pid: 375811)
+[2023-03-23 09:08:57 +0530] [375809] [INFO] Worker exiting (pid: 375809)
+[2023-03-23 09:08:57 +0530] [375812] [INFO] Worker exiting (pid: 375812)
+[2023-03-23 09:08:57 +0530] [375813] [INFO] Worker exiting (pid: 375813)
+[2023-03-23 09:08:57 +0530] [375818] [INFO] Worker exiting (pid: 375818)
+[2023-03-23 09:08:57 +0530] [375815] [INFO] Worker exiting (pid: 375815)
+[2023-03-23 09:08:57 +0530] [375814] [INFO] Worker exiting (pid: 375814)
+[2023-03-23 09:08:57 +0530] [375819] [INFO] Worker exiting (pid: 375819)
+[2023-03-23 09:08:57 +0530] [375816] [INFO] Worker exiting (pid: 375816)
+[2023-03-23 09:08:57 +0530] [375817] [INFO] Worker exiting (pid: 375817)
+[2023-03-23 09:08:57 +0530] [375820] [INFO] Worker exiting (pid: 375820)
+[2023-03-23 09:09:01 +0530] [375734] [INFO] Shutting down: Master
+[2023-03-23 09:09:10 +0530] [375947] [INFO] Starting gunicorn 20.1.0
+[2023-03-23 09:09:10 +0530] [375947] [INFO] Listening at: http://127.0.0.1:8000 (375947)
+[2023-03-23 09:09:10 +0530] [375947] [INFO] Using worker: sync
+[2023-03-23 09:09:10 +0530] [376082] [INFO] Booting worker with pid: 376082
+[2023-03-23 09:09:10 +0530] [376083] [INFO] Booting worker with pid: 376083
+[2023-03-23 09:09:11 +0530] [376084] [INFO] Booting worker with pid: 376084
+[2023-03-23 09:09:11 +0530] [376091] [INFO] Booting worker with pid: 376091
+[2023-03-23 09:09:11 +0530] [376092] [INFO] Booting worker with pid: 376092
+[2023-03-23 09:09:11 +0530] [376093] [INFO] Booting worker with pid: 376093
+[2023-03-23 09:09:11 +0530] [376094] [INFO] Booting worker with pid: 376094
+[2023-03-23 09:09:11 +0530] [376095] [INFO] Booting worker with pid: 376095
+[2023-03-23 09:09:11 +0530] [376097] [INFO] Booting worker with pid: 376097
+[2023-03-23 09:09:11 +0530] [376098] [INFO] Booting worker with pid: 376098
+[2023-03-23 09:09:11 +0530] [376099] [INFO] Booting worker with pid: 376099
+[2023-03-23 09:09:11 +0530] [376100] [INFO] Booting worker with pid: 376100
+[2023-03-23 09:09:11 +0530] [376101] [INFO] Booting worker with pid: 376101
+[2023-03-23 09:09:27 +0530] [375947] [INFO] Handling signal: term
+[2023-03-23 09:09:27 +0530] [376092] [INFO] Worker exiting (pid: 376092)
+[2023-03-23 09:09:27 +0530] [376094] [INFO] Worker exiting (pid: 376094)
+[2023-03-23 09:09:27 +0530] [376084] [INFO] Worker exiting (pid: 376084)
+[2023-03-23 09:09:27 +0530] [376083] [INFO] Worker exiting (pid: 376083)
+[2023-03-23 09:09:27 +0530] [376097] [INFO] Worker exiting (pid: 376097)
+[2023-03-23 09:09:27 +0530] [376095] [INFO] Worker exiting (pid: 376095)
+[2023-03-23 09:09:27 +0530] [376091] [INFO] Worker exiting (pid: 376091)
+[2023-03-23 09:09:27 +0530] [376098] [INFO] Worker exiting (pid: 376098)
+[2023-03-23 09:09:27 +0530] [376093] [INFO] Worker exiting (pid: 376093)
+[2023-03-23 09:09:27 +0530] [376099] [INFO] Worker exiting (pid: 376099)
+[2023-03-23 09:09:27 +0530] [376082] [INFO] Worker exiting (pid: 376082)
+[2023-03-23 09:09:27 +0530] [376100] [INFO] Worker exiting (pid: 376100)
+[2023-03-23 09:09:27 +0530] [376101] [INFO] Worker exiting (pid: 376101)
+[2023-03-23 09:09:29 +0530] [375947] [INFO] Shutting down: Master
+[2023-03-23 09:10:00 +0530] [376474] [INFO] Starting gunicorn 20.1.0
+[2023-03-23 09:10:00 +0530] [376474] [INFO] Listening at: http://127.0.0.1:8000 (376474)
+[2023-03-23 09:10:00 +0530] [376474] [INFO] Using worker: sync
+[2023-03-23 09:10:00 +0530] [376525] [INFO] Booting worker with pid: 376525
+[2023-03-23 09:10:00 +0530] [376526] [INFO] Booting worker with pid: 376526
+[2023-03-23 09:10:00 +0530] [376527] [INFO] Booting worker with pid: 376527
+[2023-03-23 09:10:00 +0530] [376528] [INFO] Booting worker with pid: 376528
+[2023-03-23 09:10:00 +0530] [376529] [INFO] Booting worker with pid: 376529
+[2023-03-23 09:10:00 +0530] [376530] [INFO] Booting worker with pid: 376530
+[2023-03-23 09:10:00 +0530] [376531] [INFO] Booting worker with pid: 376531
+[2023-03-23 09:10:00 +0530] [376534] [INFO] Booting worker with pid: 376534
+[2023-03-23 09:10:00 +0530] [376537] [INFO] Booting worker with pid: 376537
+[2023-03-23 09:10:00 +0530] [376544] [INFO] Booting worker with pid: 376544
+[2023-03-23 09:10:00 +0530] [376545] [INFO] Booting worker with pid: 376545
+[2023-03-23 09:10:00 +0530] [376546] [INFO] Booting worker with pid: 376546
+[2023-03-23 09:10:00 +0530] [376547] [INFO] Booting worker with pid: 376547
+[2023-03-23 09:18:23 +0530] [376474] [INFO] Handling signal: term
+[2023-03-23 09:18:23 +0530] [376530] [INFO] Worker exiting (pid: 376530)
+[2023-03-23 09:18:23 +0530] [376528] [INFO] Worker exiting (pid: 376528)
+[2023-03-23 09:18:23 +0530] [376527] [INFO] Worker exiting (pid: 376527)
+[2023-03-23 09:18:23 +0530] [376529] [INFO] Worker exiting (pid: 376529)
+[2023-03-23 09:18:23 +0530] [376525] [INFO] Worker exiting (pid: 376525)
+[2023-03-23 09:18:23 +0530] [376534] [INFO] Worker exiting (pid: 376534)
+[2023-03-23 09:18:23 +0530] [376526] [INFO] Worker exiting (pid: 376526)
+[2023-03-23 09:18:23 +0530] [376531] [INFO] Worker exiting (pid: 376531)
+[2023-03-23 09:18:23 +0530] [376537] [INFO] Worker exiting (pid: 376537)
+[2023-03-23 09:18:23 +0530] [376544] [INFO] Worker exiting (pid: 376544)
+[2023-03-23 09:18:23 +0530] [376546] [INFO] Worker exiting (pid: 376546)
+[2023-03-23 09:18:23 +0530] [376547] [INFO] Worker exiting (pid: 376547)
+[2023-03-23 09:18:23 +0530] [376545] [INFO] Worker exiting (pid: 376545)
+[2023-03-23 09:18:26 +0530] [376474] [INFO] Shutting down: Master
+[2023-03-23 09:18:33 +0530] [380371] [INFO] Starting gunicorn 20.1.0
+[2023-03-23 09:18:33 +0530] [380371] [INFO] Listening at: http://127.0.0.1:8000 (380371)
+[2023-03-23 09:18:33 +0530] [380371] [INFO] Using worker: sync
+[2023-03-23 09:18:33 +0530] [380439] [INFO] Booting worker with pid: 380439
+[2023-03-23 09:18:33 +0530] [380440] [INFO] Booting worker with pid: 380440
+[2023-03-23 09:18:33 +0530] [380451] [INFO] Booting worker with pid: 380451
+[2023-03-23 09:18:34 +0530] [380452] [INFO] Booting worker with pid: 380452
+[2023-03-23 09:18:34 +0530] [380453] [INFO] Booting worker with pid: 380453
+[2023-03-23 09:18:34 +0530] [380454] [INFO] Booting worker with pid: 380454
+[2023-03-23 09:18:34 +0530] [380455] [INFO] Booting worker with pid: 380455
+[2023-03-23 09:18:34 +0530] [380456] [INFO] Booting worker with pid: 380456
+[2023-03-23 09:18:34 +0530] [380457] [INFO] Booting worker with pid: 380457
+[2023-03-23 09:18:34 +0530] [380458] [INFO] Booting worker with pid: 380458
+[2023-03-23 09:18:34 +0530] [380459] [INFO] Booting worker with pid: 380459
+[2023-03-23 09:18:34 +0530] [380460] [INFO] Booting worker with pid: 380460
+[2023-03-23 09:18:34 +0530] [380462] [INFO] Booting worker with pid: 380462
+/usr/lib/python3.10/functools.py:981: UserWarning: The 'filters_config' hook used to add custom operators is not yet implemented in frappe.db.query engine. Use db_query (frappe.get_list) instead.
+  val = self.func(instance)
+/usr/lib/python3.10/functools.py:981: UserWarning: The 'filters_config' hook used to add custom operators is not yet implemented in frappe.db.query engine. Use db_query (frappe.get_list) instead.
+  val = self.func(instance)
+/usr/lib/python3.10/functools.py:981: UserWarning: The 'filters_config' hook used to add custom operators is not yet implemented in frappe.db.query engine. Use db_query (frappe.get_list) instead.
+  val = self.func(instance)
+/usr/lib/python3.10/functools.py:981: UserWarning: The 'filters_config' hook used to add custom operators is not yet implemented in frappe.db.query engine. Use db_query (frappe.get_list) instead.
+  val = self.func(instance)
+/usr/lib/python3.10/functools.py:981: UserWarning: The 'filters_config' hook used to add custom operators is not yet implemented in frappe.db.query engine. Use db_query (frappe.get_list) instead.
+  val = self.func(instance)
+/usr/lib/python3.10/functools.py:981: UserWarning: The 'filters_config' hook used to add custom operators is not yet implemented in frappe.db.query engine. Use db_query (frappe.get_list) instead.
+  val = self.func(instance)
+/usr/lib/python3.10/functools.py:981: UserWarning: The 'filters_config' hook used to add custom operators is not yet implemented in frappe.db.query engine. Use db_query (frappe.get_list) instead.
+  val = self.func(instance)
+[2023-03-23 09:22:58 +0530] [380371] [CRITICAL] WORKER TIMEOUT (pid:380451)
+[2023-03-23 09:22:58 +0530] [380451] [ERROR] Error handling request /api/method/frappe.desk.page.setup_wizard.setup_wizard.setup_complete
+Traceback (most recent call last):
+  File "/home/nandhakumar/frappe-framework/apps/frappe/frappe/app.py", line 66, in application
+    response = frappe.api.handle()
+  File "/home/nandhakumar/frappe-framework/apps/frappe/frappe/api.py", line 54, in handle
+    return frappe.handler.handle()
+  File "/home/nandhakumar/frappe-framework/apps/frappe/frappe/handler.py", line 45, in handle
+    data = execute_cmd(cmd)
+  File "/home/nandhakumar/frappe-framework/apps/frappe/frappe/handler.py", line 83, in execute_cmd
+    return frappe.call(method, **frappe.form_dict)
+  File "/home/nandhakumar/frappe-framework/apps/frappe/frappe/__init__.py", line 1607, in call
+    return fn(*args, **newargs)
+  File "/home/nandhakumar/frappe-framework/apps/frappe/frappe/desk/page/setup_wizard/setup_wizard.py", line 62, in setup_complete
+    return process_setup_stages(stages, args)
+  File "/home/nandhakumar/frappe-framework/apps/frappe/frappe/desk/page/setup_wizard/setup_wizard.py", line 90, in process_setup_stages
+    run_setup_success(user_input)
+  File "/home/nandhakumar/frappe-framework/apps/frappe/frappe/desk/page/setup_wizard/setup_wizard.py", line 117, in run_setup_success
+    install_fixtures.install()
+  File "/home/nandhakumar/frappe-framework/apps/frappe/frappe/desk/page/setup_wizard/install_fixtures.py", line 14, in install
+    update_global_search_doctypes()
+  File "/home/nandhakumar/frappe-framework/apps/frappe/frappe/desk/doctype/global_search_settings/global_search_settings.py", line 82, in update_global_search_doctypes
+    global_search_settings.save(ignore_permissions=True)
+  File "/home/nandhakumar/frappe-framework/apps/frappe/frappe/model/document.py", line 305, in save
+    return self._save(*args, **kwargs)
+  File "/home/nandhakumar/frappe-framework/apps/frappe/frappe/model/document.py", line 339, in _save
+    self.run_before_save_methods()
+  File "/home/nandhakumar/frappe-framework/apps/frappe/frappe/model/document.py", line 1045, in run_before_save_methods
+    self.run_method("validate")
+  File "/home/nandhakumar/frappe-framework/apps/frappe/frappe/model/document.py", line 914, in run_method
+    out = Document.hook(fn)(self, *args, **kwargs)
+  File "/home/nandhakumar/frappe-framework/apps/frappe/frappe/model/document.py", line 1264, in composer
+    return composed(self, method, *args, **kwargs)
+  File "/home/nandhakumar/frappe-framework/apps/frappe/frappe/model/document.py", line 1246, in runner
+    add_to_return_value(self, fn(self, *args, **kwargs))
+  File "/home/nandhakumar/frappe-framework/apps/frappe/frappe/model/document.py", line 911, in fn
+    return method_object(*args, **kwargs)
+  File "/home/nandhakumar/frappe-framework/apps/frappe/frappe/desk/doctype/global_search_settings/global_search_settings.py", line 17, in validate
+    if frappe.get_meta(dt.document_type).module == "Core":
+  File "/home/nandhakumar/frappe-framework/apps/frappe/frappe/__init__.py", line 1211, in get_meta
+    return frappe.model.meta.get_meta(doctype, cached=cached)
+  File "/home/nandhakumar/frappe-framework/apps/frappe/frappe/model/meta.py", line 65, in get_meta
+    meta = Meta(doctype)
+  File "/home/nandhakumar/frappe-framework/apps/frappe/frappe/model/meta.py", line 117, in __init__
+    super().__init__("DocType", doctype)
+  File "/home/nandhakumar/frappe-framework/apps/frappe/frappe/model/document.py", line 106, in __init__
+    self.load_from_db()
+  File "/home/nandhakumar/frappe-framework/apps/frappe/frappe/model/meta.py", line 123, in load_from_db
+    super().load_from_db()
+  File "/home/nandhakumar/frappe-framework/apps/frappe/frappe/model/document.py", line 165, in load_from_db
+    frappe.db.get_values(
+  File "/home/nandhakumar/frappe-framework/apps/frappe/frappe/database/database.py", line 593, in get_values
+    out = self._get_values_from_table(
+  File "/home/nandhakumar/frappe-framework/apps/frappe/frappe/database/database.py", line 823, in _get_values_from_table
+    return query.run(as_dict=as_dict, debug=debug, update=update, run=run, pluck=pluck)
+  File "/home/nandhakumar/frappe-framework/apps/frappe/frappe/query_builder/utils.py", line 76, in execute_query
+    return frappe.db.sql(query, params, *args, **kwargs)  # nosemgrep
+  File "/home/nandhakumar/frappe-framework/apps/frappe/frappe/database/database.py", line 219, in sql
+    self._cursor.execute(query, values)
+  File "/home/nandhakumar/frappe-framework/env/lib/python3.10/site-packages/pymysql/cursors.py", line 148, in execute
+    result = self._query(query)
+  File "/home/nandhakumar/frappe-framework/env/lib/python3.10/site-packages/pymysql/cursors.py", line 310, in _query
+    conn.query(q)
+  File "/home/nandhakumar/frappe-framework/env/lib/python3.10/site-packages/pymysql/connections.py", line 548, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "/home/nandhakumar/frappe-framework/env/lib/python3.10/site-packages/pymysql/connections.py", line 775, in _read_query_result
+    result.read()
+  File "/home/nandhakumar/frappe-framework/env/lib/python3.10/site-packages/pymysql/connections.py", line 1163, in read
+    self._read_result_packet(first_packet)
+  File "/home/nandhakumar/frappe-framework/env/lib/python3.10/site-packages/pymysql/connections.py", line 1236, in _read_result_packet
+    self._read_rowdata_packet()
+  File "/home/nandhakumar/frappe-framework/env/lib/python3.10/site-packages/pymysql/connections.py", line 1274, in _read_rowdata_packet
+    rows.append(self._read_row_from_packet(packet))
+  File "/home/nandhakumar/frappe-framework/env/lib/python3.10/site-packages/pymysql/connections.py", line 1283, in _read_row_from_packet
+    data = packet.read_length_coded_string()
+  File "/home/nandhakumar/frappe-framework/env/lib/python3.10/site-packages/gunicorn/workers/base.py", line 203, in handle_abort
+    sys.exit(1)
+SystemExit: 1
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/nandhakumar/frappe-framework/env/lib/python3.10/site-packages/gunicorn/workers/sync.py", line 136, in handle
+    self.handle_request(listener, req, client, addr)
+  File "/home/nandhakumar/frappe-framework/env/lib/python3.10/site-packages/gunicorn/workers/sync.py", line 179, in handle_request
+    respiter = self.wsgi(environ, resp.start_response)
+  File "/home/nandhakumar/frappe-framework/env/lib/python3.10/site-packages/werkzeug/local.py", line 237, in application
+    return ClosingIterator(app(environ, start_response), self.cleanup)
+  File "/home/nandhakumar/frappe-framework/env/lib/python3.10/site-packages/werkzeug/wrappers/request.py", line 194, in application
+    resp = f(*args[:-2] + (request,))
+  File "/home/nandhakumar/frappe-framework/apps/frappe/frappe/app.py", line 91, in application
+    frappe.db.rollback()
+  File "/home/nandhakumar/frappe-framework/apps/frappe/frappe/database/database.py", line 1036, in rollback
+    self.sql("rollback")
+  File "/home/nandhakumar/frappe-framework/apps/frappe/frappe/database/database.py", line 219, in sql
+    self._cursor.execute(query, values)
+  File "/home/nandhakumar/frappe-framework/env/lib/python3.10/site-packages/pymysql/cursors.py", line 148, in execute
+    result = self._query(query)
+  File "/home/nandhakumar/frappe-framework/env/lib/python3.10/site-packages/pymysql/cursors.py", line 310, in _query
+    conn.query(q)
+  File "/home/nandhakumar/frappe-framework/env/lib/python3.10/site-packages/pymysql/connections.py", line 548, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "/home/nandhakumar/frappe-framework/env/lib/python3.10/site-packages/pymysql/connections.py", line 775, in _read_query_result
+    result.read()
+  File "/home/nandhakumar/frappe-framework/env/lib/python3.10/site-packages/pymysql/connections.py", line 1156, in read
+    first_packet = self.connection._read_packet()
+  File "/home/nandhakumar/frappe-framework/env/lib/python3.10/site-packages/pymysql/connections.py", line 705, in _read_packet
+    raise err.InternalError(
+pymysql.err.InternalError: Packet sequence number wrong - got 33 expected 1
+[2023-03-23 09:22:58 +0530] [380451] [INFO] Worker exiting (pid: 380451)
+[2023-03-23 09:22:59 +0530] [380371] [WARNING] Worker with pid 380451 was terminated due to signal 9
+[2023-03-23 09:22:59 +0530] [382081] [INFO] Booting worker with pid: 382081
+/usr/lib/python3.10/functools.py:981: UserWarning: The 'filters_config' hook used to add custom operators is not yet implemented in frappe.db.query engine. Use db_query (frappe.get_list) instead.
+  val = self.func(instance)
+/usr/lib/python3.10/functools.py:981: UserWarning: The 'filters_config' hook used to add custom operators is not yet implemented in frappe.db.query engine. Use db_query (frappe.get_list) instead.
+  val = self.func(instance)
+/usr/lib/python3.10/functools.py:981: UserWarning: The 'filters_config' hook used to add custom operators is not yet implemented in frappe.db.query engine. Use db_query (frappe.get_list) instead.
+  val = self.func(instance)
+/usr/lib/python3.10/functools.py:981: UserWarning: The 'filters_config' hook used to add custom operators is not yet implemented in frappe.db.query engine. Use db_query (frappe.get_list) instead.
+  val = self.func(instance)
+/usr/lib/python3.10/functools.py:981: UserWarning: The 'filters_config' hook used to add custom operators is not yet implemented in frappe.db.query engine. Use db_query (frappe.get_list) instead.
+  val = self.func(instance)
+/usr/lib/python3.10/functools.py:981: UserWarning: The 'filters_config' hook used to add custom operators is not yet implemented in frappe.db.query engine. Use db_query (frappe.get_list) instead.
+  val = self.func(instance)

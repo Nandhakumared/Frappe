@@ -98,3 +98,162 @@ To avoid seeing this warning, set shallow_clone to false in your common_site_con
 2023-03-23 09:01:19,098 DEBUG cd /home/nandhakumar/frappe-framework && sudo supervisorctl restart frappe:
 2023-03-23 09:01:20,017 WARNING cd /home/nandhakumar/frappe-framework && sudo supervisorctl restart frappe: executed with exit code 2
 2023-03-23 09:01:20,018 WARNING /usr/local/bin/bench restart executed with exit code 1
+2023-03-23 09:08:10,799 INFO /usr/local/bin/bench setup supervisor
+2023-03-23 09:08:12,802 LOG Updated supervisord.conf: 'chmod' changed from '0700                       ; sockef file mode (default 0700)' to '0760'
+2023-03-23 09:08:12,802 LOG Updated supervisord.conf: 'chown' changed from '' to 'nandhakumar:nandhakumar'
+2023-03-23 09:08:26,020 INFO /usr/local/bin/bench setup nginx
+2023-03-23 09:08:42,345 INFO /usr/local/bin/bench worker --queue default
+2023-03-23 09:08:42,345 INFO /usr/local/bin/bench schedule
+2023-03-23 09:08:42,359 INFO /usr/local/bin/bench worker --queue short
+2023-03-23 09:08:42,373 INFO /usr/local/bin/bench worker --queue long
+2023-03-23 09:08:52,918 INFO /usr/local/bin/bench restart
+2023-03-23 09:08:55,048 DEBUG cd /home/nandhakumar/frappe-framework && sudo supervisorctl restart frappe-framework-workers: frappe-framework-web:
+2023-03-23 09:09:06,174 INFO /usr/local/bin/bench worker --queue short
+2023-03-23 09:09:06,188 INFO /usr/local/bin/bench worker --queue long
+2023-03-23 09:09:06,190 INFO /usr/local/bin/bench schedule
+2023-03-23 09:09:06,200 INFO /usr/local/bin/bench worker --queue default
+2023-03-23 09:09:11,997 INFO /usr/local/bin/bench start
+2023-03-23 09:09:39,058 INFO /usr/local/bin/bench start
+2023-03-23 09:09:52,626 INFO /usr/local/bin/bench restart
+2023-03-23 09:09:54,692 DEBUG cd /home/nandhakumar/frappe-framework && sudo supervisorctl restart frappe-framework-workers: frappe-framework-web:
+2023-03-23 09:09:55,953 INFO /usr/local/bin/bench schedule
+2023-03-23 09:09:55,986 INFO /usr/local/bin/bench worker --queue long
+2023-03-23 09:09:55,992 INFO /usr/local/bin/bench worker --queue short
+2023-03-23 09:09:56,000 INFO /usr/local/bin/bench worker --queue default
+2023-03-23 09:10:04,228 INFO /usr/local/bin/bench start
+2023-03-23 09:10:11,088 INFO /usr/local/bin/bench worker --queue default
+2023-03-23 09:10:11,316 INFO /usr/local/bin/bench worker --queue long
+2023-03-23 09:10:12,473 INFO /usr/local/bin/bench worker --queue short
+2023-03-23 09:10:24,822 INFO /usr/local/bin/bench worker --queue default
+2023-03-23 09:10:25,024 INFO /usr/local/bin/bench worker --queue long
+2023-03-23 09:10:26,337 INFO /usr/local/bin/bench worker --queue short
+2023-03-23 09:10:39,838 INFO /usr/local/bin/bench worker --queue default
+2023-03-23 09:10:40,814 INFO /usr/local/bin/bench worker --queue long
+2023-03-23 09:10:42,094 INFO /usr/local/bin/bench worker --queue short
+2023-03-23 09:10:54,888 INFO /usr/local/bin/bench worker --queue default
+2023-03-23 09:10:55,483 INFO /usr/local/bin/bench worker --queue long
+2023-03-23 09:10:56,682 INFO /usr/local/bin/bench worker --queue short
+2023-03-23 09:11:09,873 INFO /usr/local/bin/bench worker --queue default
+2023-03-23 09:11:10,838 INFO /usr/local/bin/bench worker --queue long
+2023-03-23 09:11:12,146 INFO /usr/local/bin/bench worker --queue short
+2023-03-23 09:11:25,028 INFO /usr/local/bin/bench worker --queue default
+2023-03-23 09:11:25,702 INFO /usr/local/bin/bench worker --queue long
+2023-03-23 09:11:27,066 INFO /usr/local/bin/bench worker --queue short
+2023-03-23 09:11:38,871 INFO /usr/local/bin/bench worker --queue default
+2023-03-23 09:11:40,220 INFO /usr/local/bin/bench worker --queue long
+2023-03-23 09:11:41,664 INFO /usr/local/bin/bench worker --queue short
+2023-03-23 09:11:54,053 INFO /usr/local/bin/bench worker --queue default
+2023-03-23 09:11:55,411 INFO /usr/local/bin/bench worker --queue long
+2023-03-23 09:11:56,619 INFO /usr/local/bin/bench worker --queue short
+2023-03-23 09:12:08,809 INFO /usr/local/bin/bench worker --queue default
+2023-03-23 09:12:10,059 INFO /usr/local/bin/bench worker --queue long
+2023-03-23 09:12:11,693 INFO /usr/local/bin/bench worker --queue short
+2023-03-23 09:12:24,424 INFO /usr/local/bin/bench worker --queue default
+2023-03-23 09:12:25,134 INFO /usr/local/bin/bench worker --queue long
+2023-03-23 09:12:26,401 INFO /usr/local/bin/bench worker --queue short
+2023-03-23 09:12:39,206 INFO /usr/local/bin/bench worker --queue default
+2023-03-23 09:12:40,487 INFO /usr/local/bin/bench worker --queue long
+2023-03-23 09:12:41,506 INFO /usr/local/bin/bench worker --queue short
+2023-03-23 09:12:54,461 INFO /usr/local/bin/bench worker --queue default
+2023-03-23 09:12:55,618 INFO /usr/local/bin/bench worker --queue long
+2023-03-23 09:12:57,005 INFO /usr/local/bin/bench worker --queue short
+2023-03-23 09:13:09,412 INFO /usr/local/bin/bench worker --queue default
+2023-03-23 09:13:10,615 INFO /usr/local/bin/bench worker --queue long
+2023-03-23 09:13:12,557 INFO /usr/local/bin/bench worker --queue short
+2023-03-23 09:13:21,424 INFO /usr/local/bin/bench --site nandha.com uninstall-app erpnext
+2023-03-23 09:13:24,547 INFO /usr/local/bin/bench worker --queue default
+2023-03-23 09:13:25,657 INFO /usr/local/bin/bench worker --queue long
+2023-03-23 09:13:27,602 INFO /usr/local/bin/bench worker --queue short
+2023-03-23 09:13:40,270 INFO /usr/local/bin/bench worker --queue default
+2023-03-23 09:13:41,449 INFO /usr/local/bin/bench worker --queue long
+2023-03-23 09:13:42,832 INFO /usr/local/bin/bench worker --queue short
+2023-03-23 09:13:55,303 INFO /usr/local/bin/bench worker --queue default
+2023-03-23 09:13:55,723 INFO /usr/local/bin/bench worker --queue long
+2023-03-23 09:13:56,723 INFO /usr/local/bin/bench worker --queue short
+2023-03-23 09:14:08,526 INFO /usr/local/bin/bench worker --queue default
+2023-03-23 09:14:09,388 INFO /usr/local/bin/bench worker --queue long
+2023-03-23 09:14:10,432 INFO /usr/local/bin/bench worker --queue short
+2023-03-23 09:14:22,676 INFO /usr/local/bin/bench worker --queue default
+2023-03-23 09:14:23,960 INFO /usr/local/bin/bench worker --queue long
+2023-03-23 09:14:24,990 INFO /usr/local/bin/bench worker --queue short
+2023-03-23 09:14:37,679 INFO /usr/local/bin/bench worker --queue default
+2023-03-23 09:14:38,613 INFO /usr/local/bin/bench worker --queue long
+2023-03-23 09:14:39,888 INFO /usr/local/bin/bench worker --queue short
+2023-03-23 09:14:51,847 INFO /usr/local/bin/bench worker --queue default
+2023-03-23 09:14:52,980 INFO /usr/local/bin/bench worker --queue long
+2023-03-23 09:14:54,182 INFO /usr/local/bin/bench worker --queue short
+2023-03-23 09:15:06,239 INFO /usr/local/bin/bench worker --queue default
+2023-03-23 09:15:07,276 INFO /usr/local/bin/bench worker --queue long
+2023-03-23 09:15:08,667 INFO /usr/local/bin/bench worker --queue short
+2023-03-23 09:15:21,803 INFO /usr/local/bin/bench worker --queue default
+2023-03-23 09:15:22,348 INFO /usr/local/bin/bench worker --queue long
+2023-03-23 09:15:23,668 INFO /usr/local/bin/bench worker --queue short
+2023-03-23 09:15:36,852 INFO /usr/local/bin/bench worker --queue default
+2023-03-23 09:15:37,834 INFO /usr/local/bin/bench worker --queue long
+2023-03-23 09:15:39,487 INFO /usr/local/bin/bench worker --queue short
+2023-03-23 09:15:52,051 INFO /usr/local/bin/bench worker --queue default
+2023-03-23 09:15:53,043 INFO /usr/local/bin/bench worker --queue long
+2023-03-23 09:15:54,635 INFO /usr/local/bin/bench worker --queue short
+2023-03-23 09:16:06,816 INFO /usr/local/bin/bench worker --queue default
+2023-03-23 09:16:07,900 INFO /usr/local/bin/bench worker --queue long
+2023-03-23 09:16:09,600 INFO /usr/local/bin/bench worker --queue short
+2023-03-23 09:16:11,680 INFO /usr/local/bin/bench setup production nandhakumar --yes
+2023-03-23 09:16:11,725 LOG Updated supervisord.conf: 'chmod' changed from '0700                       ; sockef file mode (default 0700)' to '0760'
+2023-03-23 09:16:11,725 LOG Updated supervisord.conf: 'chown' changed from '' to 'nandhakumar:nandhakumar'
+2023-03-23 09:16:11,978 DEBUG /usr/bin/supervisorctl reread
+2023-03-23 09:16:13,229 DEBUG /usr/bin/supervisorctl update
+2023-03-23 09:16:14,388 DEBUG sudo /usr/sbin/nginx -t
+2023-03-23 09:16:14,570 DEBUG sudo systemctl reload nginx
+2023-03-23 09:16:14,711 WARNING sudo systemctl reload nginx executed with exit code 1
+2023-03-23 09:16:14,712 WARNING /usr/local/bin/bench setup production nandhakumar --yes executed with exit code 1
+2023-03-23 09:16:21,448 INFO /usr/local/bin/bench worker --queue default
+2023-03-23 09:16:22,470 INFO /usr/local/bin/bench worker --queue long
+2023-03-23 09:16:24,936 INFO /usr/local/bin/bench worker --queue short
+2023-03-23 09:16:36,200 INFO /usr/local/bin/bench worker --queue default
+2023-03-23 09:16:37,427 INFO /usr/local/bin/bench worker --queue long
+2023-03-23 09:16:39,924 INFO /usr/local/bin/bench worker --queue short
+2023-03-23 09:16:50,435 INFO /usr/local/bin/bench worker --queue default
+2023-03-23 09:16:51,722 INFO /usr/local/bin/bench worker --queue long
+2023-03-23 09:16:52,009 INFO /usr/local/bin/bench setup production nandhakumar --yes
+2023-03-23 09:16:52,045 LOG Updated supervisord.conf: 'chmod' changed from '0700                       ; sockef file mode (default 0700)' to '0760'
+2023-03-23 09:16:52,045 LOG Updated supervisord.conf: 'chown' changed from '' to 'nandhakumar:nandhakumar'
+2023-03-23 09:16:52,403 DEBUG /usr/bin/supervisorctl reread
+2023-03-23 09:16:53,666 DEBUG /usr/bin/supervisorctl update
+2023-03-23 09:16:54,483 DEBUG sudo /usr/sbin/nginx -t
+2023-03-23 09:16:54,522 DEBUG sudo systemctl reload nginx
+2023-03-23 09:16:54,796 INFO /usr/local/bin/bench worker --queue short
+2023-03-23 09:17:05,924 INFO /usr/local/bin/bench worker --queue default
+2023-03-23 09:17:06,942 INFO /usr/local/bin/bench worker --queue long
+2023-03-23 09:17:09,854 INFO /usr/local/bin/bench worker --queue short
+2023-03-23 09:17:20,111 INFO /usr/local/bin/bench worker --queue default
+2023-03-23 09:17:21,240 INFO /usr/local/bin/bench worker --queue long
+2023-03-23 09:17:24,586 INFO /usr/local/bin/bench worker --queue short
+2023-03-23 09:17:32,074 INFO /usr/local/bin/bench --site nandha.com enable-scheduler
+2023-03-23 09:17:34,998 INFO /usr/local/bin/bench worker --queue default
+2023-03-23 09:17:36,257 INFO /usr/local/bin/bench worker --queue long
+2023-03-23 09:17:39,367 INFO /usr/local/bin/bench worker --queue short
+2023-03-23 09:17:41,780 INFO /usr/local/bin/bench setup nginx
+2023-03-23 09:17:45,831 INFO /usr/local/bin/bench setup supervisor
+2023-03-23 09:17:46,771 LOG Updated supervisord.conf: 'chmod' changed from '0700                       ; sockef file mode (default 0700)' to '0760'
+2023-03-23 09:17:46,771 LOG Updated supervisord.conf: 'chown' changed from '' to 'nandhakumar:nandhakumar'
+2023-03-23 09:17:49,426 INFO /usr/local/bin/bench worker --queue default
+2023-03-23 09:17:51,025 INFO /usr/local/bin/bench worker --queue long
+2023-03-23 09:17:53,622 INFO /usr/local/bin/bench worker --queue short
+2023-03-23 09:18:04,171 INFO /usr/local/bin/bench worker --queue default
+2023-03-23 09:18:05,356 INFO /usr/local/bin/bench --site nandha.com set-maintenance-mode off
+2023-03-23 09:18:05,490 INFO /usr/local/bin/bench worker --queue long
+2023-03-23 09:18:07,702 INFO /usr/local/bin/bench worker --queue short
+2023-03-23 09:18:15,150 INFO /usr/local/bin/bench setup production nandhakumar --yes
+2023-03-23 09:18:15,188 LOG Updated supervisord.conf: 'chmod' changed from '0700                       ; sockef file mode (default 0700)' to '0760'
+2023-03-23 09:18:15,188 LOG Updated supervisord.conf: 'chown' changed from '' to 'nandhakumar:nandhakumar'
+2023-03-23 09:18:15,524 DEBUG /usr/bin/supervisorctl reread
+2023-03-23 09:18:16,455 DEBUG /usr/bin/supervisorctl update
+2023-03-23 09:18:17,435 DEBUG sudo /usr/sbin/nginx -t
+2023-03-23 09:18:17,524 DEBUG sudo systemctl reload nginx
+2023-03-23 09:18:19,049 INFO /usr/local/bin/bench worker --queue default
+2023-03-23 09:18:20,313 INFO /usr/local/bin/bench worker --queue long
+2023-03-23 09:18:23,052 INFO /usr/local/bin/bench worker --queue short
+2023-03-23 09:18:30,076 INFO /usr/local/bin/bench worker --queue short
+2023-03-23 09:18:30,154 INFO /usr/local/bin/bench schedule
+2023-03-23 09:18:30,178 INFO /usr/local/bin/bench worker --queue default
+2023-03-23 09:18:30,211 INFO /usr/local/bin/bench worker --queue long
